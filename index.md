@@ -118,11 +118,6 @@ Perhaps our most desired feature, it gives an option to toggle the page between 
 | **Mahalakshumi V**  | [mahavisvanathan](https://github.com/mahavisvanathan/) |
 
 
-## Outside Contributors
-| Contributors | Profile Links                                 | PR                                                           |
-| ------------ | --------------------------------------------- | ------------------------------------------------------------ |
-| **Dhiraj V** | [dhirajv2000](https://github.com/dhirajv2000) | [#28](https://github.com/K-Kraken/REMS-For-Organisations/pull/28) |
-
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used.
